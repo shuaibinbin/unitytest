@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 929162683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fe547b4fbbc8b4f92602bb654173f41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8935b63be62738dbd80deb58f8d18449
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/z5l.prefab
+Dependencies: []

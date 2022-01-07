@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1112212130
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: z3
+      Dependencies: {}
+    Info_1:
+      Name: z3l
+      Dependencies: {}
+    Info_2:
+      Name: z4
+      Dependencies: {}
+    Info_3:
+      Name: z4l
+      Dependencies: {}
+    Info_4:
+      Name: z5
+      Dependencies: {}
+    Info_5:
+      Name: z5l
+      Dependencies: {}
+    Info_6:
+      Name: cube
+      Dependencies: {}
